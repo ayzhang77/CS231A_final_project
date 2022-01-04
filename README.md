@@ -4,8 +4,9 @@ This repo contains the code for Go Board Reconstruction from a Single Image
 
 by Amy Zhang (ayzhang)
 
-Files available:
+Files available: \
+main.py (Python file with all image processing and machine learning code) \
+image_data (Sample image data used in main.py) 
 
-main.py (Python file with all image processing and machine learning code)
-image_data (Sample image data used in main.py)
-Contact ayzhang@stanford.edu with any questions!
+
+Contact ayzhang@stanford.edu with any questions! 
