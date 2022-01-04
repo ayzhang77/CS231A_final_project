@@ -1,6 +1,6 @@
 # CS231A Final Project
 
-This repo contains the code for Go Board Reconstruction from a Single Image
+This repo contains the code for _Go Board Reconstruction from a Single Image_
 
 by Amy Zhang (ayzhang)
 
